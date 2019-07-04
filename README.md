@@ -1,5 +1,5 @@
 # Decentraland Claim app  
-## Confige  
+## Configure  
 Configure the following ENV variables first:   
 ```bash  
 AMOUNT=100  
